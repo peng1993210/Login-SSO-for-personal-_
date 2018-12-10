@@ -1,0 +1,133 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties",
+      "type": "com.peng.cas.properties.MyAuthenticationProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.autocommit",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.batch-size",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.data-source-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.data-source-proxy",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.ddl-auto",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.default-catalog",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.default-schema",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.dialect",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.driver-class",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.fail-fast-timeout",
+      "type": "java.lang.Long"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.field-disabled",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.field-expired",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.field-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.health-query",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.idle-timeout",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.isolate-internal-queries",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.leak-threshold",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.name",
+      "description": "Name of the authentication handler.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.pool",
+      "type": "org.apereo.cas.configuration.model.support.ConnectionPoolingProperties"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.properties",
+      "type": "java.util.Map<java.lang.String,java.lang.String>"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.sql",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.peng.cas.properties.MyAuthenticationProperties",
+      "name": "com.peng.authn.properties.user",
+      "type": "java.lang.String"
+    }
+  ]
+}

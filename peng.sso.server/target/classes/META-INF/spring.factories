@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  org.apereo.cas.config.CasEmbeddedContainerTomcatConfiguration,\
+  org.apereo.cas.config.CasEmbeddedContainerTomcatFiltersConfiguration,\
+  com.peng.cas.config.MyAuthenticationConfiguration,\
+  com.peng.cas.properties.MyAuthenticationProperties
+
