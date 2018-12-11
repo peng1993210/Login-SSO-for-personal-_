@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 29 22:45:29 CST 2018
+cas-server-webapp-tomcat-5.3.4.pom>sonatype-releases=
+cas-server-webapp-tomcat-5.3.4.war>sonatype-releases=
+cas-server-webapp-tomcat-5.3.4-javadoc.jar>sonatype-releases=
+cas-server-webapp-tomcat-5.3.4-sources.jar>sonatype-releases=

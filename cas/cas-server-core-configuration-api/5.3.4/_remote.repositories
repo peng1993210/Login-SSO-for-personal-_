@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Dec 02 14:11:24 CST 2018
+cas-server-core-configuration-api-5.3.4.jar>sonatype-releases=
+cas-server-core-configuration-api-5.3.4-sources.jar>sonatype-releases=
+cas-server-core-configuration-api-5.3.4.pom>sonatype-releases=
